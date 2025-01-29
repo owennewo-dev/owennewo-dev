@@ -2,7 +2,7 @@
 
 **Things I use**
 
-![TrueNAS Badge](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=fff&style=plastic) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic) ![Portainer Badge](https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=fff&style=plastic) ![Immich Badge](https://img.shields.io/badge/Immich-4250AF?logo=immich&logoColor=fff&style=plastic) ![Tailscale Badge](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=fff&style=plastic) ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=plastic) ![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=plastic)
+![Simple Icons Badge](https://img.shields.io/badge/Simple%20Icons-111?logo=simpleicons&logoColor=fff&style=plastic) ![TrueNAS Badge](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=fff&style=plastic) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic) ![Portainer Badge](https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=fff&style=plastic) ![Immich Badge](https://img.shields.io/badge/Immich-4250AF?logo=immich&logoColor=fff&style=plastic) ![Tailscale Badge](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=fff&style=plastic) ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=plastic) ![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=plastic)
 
 **Things I am learning**
 
